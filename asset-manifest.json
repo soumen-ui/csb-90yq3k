@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://soumen-ui.github.io/csb-90yq3k/static/css/main.d7901753.chunk.css",
-    "main.js": "https://soumen-ui.github.io/csb-90yq3k/static/js/main.bef923c5.chunk.js",
-    "main.js.map": "https://soumen-ui.github.io/csb-90yq3k/static/js/main.bef923c5.chunk.js.map",
+    "main.js": "https://soumen-ui.github.io/csb-90yq3k/static/js/main.218ea9ad.chunk.js",
+    "main.js.map": "https://soumen-ui.github.io/csb-90yq3k/static/js/main.218ea9ad.chunk.js.map",
     "runtime-main.js": "https://soumen-ui.github.io/csb-90yq3k/static/js/runtime-main.ba0e8484.js",
     "runtime-main.js.map": "https://soumen-ui.github.io/csb-90yq3k/static/js/runtime-main.ba0e8484.js.map",
     "static/js/2.20fb757e.chunk.js": "https://soumen-ui.github.io/csb-90yq3k/static/js/2.20fb757e.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ba0e8484.js",
     "static/js/2.20fb757e.chunk.js",
     "static/css/main.d7901753.chunk.css",
-    "static/js/main.bef923c5.chunk.js"
+    "static/js/main.218ea9ad.chunk.js"
   ]
 }
